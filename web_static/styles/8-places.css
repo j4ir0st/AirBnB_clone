@@ -35,3 +35,6 @@ article {
     border-bottom: 1px solid #DDDD;
     align-items: center;
 }
+.max_guest {
+    width: 100px;
+}
